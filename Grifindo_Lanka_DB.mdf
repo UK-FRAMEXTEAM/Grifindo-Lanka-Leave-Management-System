@@ -1,0 +1,7 @@
+USE [master]
+GO
+
+/****** Object:  Database [Grifindo_Lanka]    Script Date: 9/30/2025 7:40:44 PM ******/
+DROP DATABASE [Grifindo_Lanka]
+GO
+
